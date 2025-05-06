@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Horas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Calculadora de Horas</h1>
+        <div class="calculator">
+            <div class="input-group">
+                <input type="time" id="time1" required>
+                <select id="operation">
+                    <option value="-">-</option>
+                    <option value="+">+</option>
+                </select>
+                <input type="time" id="time2" required>
+                <button type="button" id="calculate">=</button>
+            </div>
+            <div class="result">
+                <h2>Resultado:</h2>
+                <span id="result">00:00</span>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
