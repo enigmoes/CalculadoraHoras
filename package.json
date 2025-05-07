@@ -16,10 +16,7 @@
     "build:portable": "electron-builder build --win portable"
   },
   "keywords": [],
-  "author": {
-    "name": "Enigmo",
-    "email": "enigmo@enigmo.es"
-  },
+  "author": "Enigmo",
   "license": "MIT",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.1"
