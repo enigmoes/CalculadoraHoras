@@ -35,8 +35,8 @@
     "electron-packager": "^17.1.2"
   },
   "build": {
-    "productName": "Calculadora de Horas",
-    "appId": "enigmo.HoursCalc",
+    "productName": "CalculadoraHoras",
+    "appId": "enigmo.CalculadoraHoras",
     "mac": {
       "icon": "assets/img/icon.icns"
     },
