@@ -48,7 +48,7 @@
       "icon": "assets/img/icon.ico"
     },
     "portable": {
-      "artifactName": "calculadora_horas_portable.exe"
+      "artifactName": "CalculadoraHoras.exe"
     }
   }
 }
